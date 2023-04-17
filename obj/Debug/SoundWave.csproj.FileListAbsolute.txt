@@ -1,0 +1,16 @@
+C:\Users\itzsi\source\repos\SoundWave\bin\Debug\SoundWave.exe.config
+C:\Users\itzsi\source\repos\SoundWave\bin\Debug\SoundWave.exe
+C:\Users\itzsi\source\repos\SoundWave\bin\Debug\SoundWave.pdb
+C:\Users\itzsi\source\repos\SoundWave\bin\Debug\Interop.WMPLib.dll
+C:\Users\itzsi\source\repos\SoundWave\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.csproj.AssemblyReference.cache
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.csproj.SuggestedBindingRedirects.cache
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\Interop.WMPLib.dll
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.csproj.ResolveComReference.cache
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.Form1.resources
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.Properties.Resources.resources
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.csproj.GenerateResource.cache
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.csproj.CoreCompileInputs.cache
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.exe
+C:\Users\itzsi\source\repos\SoundWave\obj\Debug\SoundWave.pdb
